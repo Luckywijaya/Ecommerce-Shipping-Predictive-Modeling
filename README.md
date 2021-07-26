@@ -53,8 +53,18 @@ An international e-commerce company that sells electronic products want to disco
 • Hyperparameter tuning<br>
 • Select the best model<br>
 <br><br>
-## **Model Evaluation**<br>
-<br><br>
+## **Model Evaluation**
+| Score | Random Forest | Logistic Regression | AdaBoost | XGBoost |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| Recall | 0.57 | 0.73 | 0.60 | 0.68 |
+| AP | 0.74 | 0.67 | 0.70 | 0.68 |
+| ROC | 0.70 | 0.62 | 0.68 | 0.66 |
+| AP Train | 0.74 | 0.67 | 0.72 | 0.93 |
+| AP Test | 0.74 | 0.67 | 0.70 | 0.68 | 
+<br> 
+Based on the model evaluation, Random Forest algorithm has the best result.
+
+
 ## **Recommendations**<br>
 ### Short terms
 • Add estimatedarrival time to assure the package arrived on time<br>
