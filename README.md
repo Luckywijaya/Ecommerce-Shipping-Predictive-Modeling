@@ -56,3 +56,9 @@ An international e-commerce company that sells electronic products want to disco
 ## **Model Evaluation**<br>
 <br><br>
 ## **Recommendations**<br>
+### Short terms
+• Add estimatedarrival time to assure the package arrived on time<br>
+• Give credit points as a compensations to retain customer loyalty<br>
+### Long terms
+• Add more features to give more specific & accurate insights<br>
+• Perform operational audit based on the insights<br>
