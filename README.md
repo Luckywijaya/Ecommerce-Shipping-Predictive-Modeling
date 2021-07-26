@@ -35,5 +35,14 @@ An international e-commerce company that sells electronic products want to disco
 
 4. Shipping delivery is confirmed late when the product weight is between 2-4 kg.
 ![image](https://user-images.githubusercontent.com/80570935/126961078-28049344-6c62-4168-b92e-c347c8b80930.png)
-
+<br>
+<br>
+## **Data Processing**
+1. Check missing & duplicate values
+2. Remove outliers for `Purchase` feature by IQR limit & replace outliers for `Discount` feature with IQR limit
+3. Ordinal encoding for `Importance` column & feature encoding the rest of categorical columns
+4. Select best features for modeling
+5. Normalize all selected features
+<br><br>
+## **Modeling**
 
