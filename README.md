@@ -45,10 +45,14 @@ An international e-commerce company that sells electronic products want to disco
 • Normalize all selected features <br>
 <br><br>
 ## **Modeling**<br>
-• Split features & target
-• Split data into data train & data test
-• Train model with 5 different algorithm such as Logistic Regression, Random Forest, XGBoost & AdaBoost
-• Validate model with 
-•
-•
-•
+• Split features & target<br>
+• Split data into data train & data test<br>
+• Train model with 5 different algorithm such as Logistic Regression, Random Forest, XGBoost & AdaBoost<br>
+• Evaluate model with Recall, Average Precision (AP) & ROC Score<br>
+• Validate model with train, test accuracy & AP train, AP test as well<br>
+• Hyperparameter tuning<br>
+• Select the best model<br>
+<br><br>
+## **Model Evaluation**<br>
+<br><br>
+## **Recommendations**<br>
