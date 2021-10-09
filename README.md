@@ -1,4 +1,6 @@
 # Ecommerce-Shipping-Predictive-Modeling
+Data source : https://www.kaggle.com/prachi13/customer-analytics
+
 ## **Project Overview** 
 • Seek insight from the dataset with Exploratory Data Analysis <br>
 • Performed data cleansing, data processing, data engineering to prepare data before modeling <br>
